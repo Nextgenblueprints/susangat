@@ -1,0 +1,256 @@
+﻿{
+    "categories":  [
+                       {
+                           "id":  "bites",
+                           "name":  "Anytime Bites",
+                           "items":  [
+                                         {
+                                             "name":  "Aloo Butter Paratha",
+                                             "price":  50,
+                                             "image":  "https://images.unsplash.com/photo-1599307734110-3882f073d849",
+                                             "mask":  "leaf-mask"
+                                         },
+                                         {
+                                             "name":  "Paneer Butter Paratha",
+                                             "price":  70,
+                                             "image":  "https://images.unsplash.com/photo-1599307734110-3882f073d849",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Chola Rice / Puri",
+                                             "price":  50,
+                                             "image":  "https://images.unsplash.com/photo-1585937421612-70a008356fbe",
+                                             "mask":  "leaf-mask alt"
+                                         },
+                                         {
+                                             "name":  "Uttapam (Mix Veg)",
+                                             "price":  50,
+                                             "image":  "https://images.unsplash.com/photo-1630383249896-424e482df921",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Uttapam (Paneer)",
+                                             "price":  80,
+                                             "image":  "https://images.unsplash.com/photo-1630383249896-424e482df921",
+                                             "mask":  "leaf-mask"
+                                         },
+                                         {
+                                             "name":  "Plane Dosa",
+                                             "price":  40,
+                                             "image":  "https://images.unsplash.com/photo-1630383249896-424e482df921",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Masala Dosa",
+                                             "price":  70,
+                                             "image":  "https://images.unsplash.com/photo-1630383249896-424e482df921",
+                                             "mask":  "leaf-mask alt"
+                                         },
+                                         {
+                                             "name":  "Cheese Dosa",
+                                             "price":  100,
+                                             "image":  "https://images.unsplash.com/photo-1630383249896-424e482df921",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Veg Pasta",
+                                             "price":  50,
+                                             "image":  "https://images.unsplash.com/photo-1551183053-bf91a1d81141",
+                                             "mask":  "leaf-mask"
+                                         },
+                                         {
+                                             "name":  "Red Sauce Pasta",
+                                             "price":  60,
+                                             "image":  "https://images.unsplash.com/photo-1551183053-bf91a1d81141",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "White Sauce Pasta",
+                                             "price":  100,
+                                             "image":  "https://images.unsplash.com/photo-1551183053-bf91a1d81141",
+                                             "mask":  "leaf-mask alt"
+                                         },
+                                         {
+                                             "name":  "Maggi",
+                                             "price":  30,
+                                             "image":  "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Veg Maggi",
+                                             "price":  40,
+                                             "image":  "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841",
+                                             "mask":  "leaf-mask"
+                                         },
+                                         {
+                                             "name":  "Cheese Maggi",
+                                             "price":  60,
+                                             "image":  "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Hakka Noodles",
+                                             "price":  40,
+                                             "image":  "https://images.unsplash.com/photo-1585032226651-759b368d724a",
+                                             "mask":  "leaf-mask alt"
+                                         },
+                                         {
+                                             "name":  "Chowmein",
+                                             "price":  50,
+                                             "image":  "https://images.unsplash.com/photo-1585032226651-759b368d724a",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Manchurian",
+                                             "price":  80,
+                                             "image":  "https://images.unsplash.com/photo-1563379091339-03b21bc4a4f8",
+                                             "mask":  "leaf-mask"
+                                         },
+                                         {
+                                             "name":  "Gravy Manchurian",
+                                             "price":  70,
+                                             "image":  "https://images.unsplash.com/photo-1563379091339-03b21bc4a4f8",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Chilly Paneer",
+                                             "price":  100,
+                                             "image":  "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8",
+                                             "mask":  "leaf-mask alt"
+                                         },
+                                         {
+                                             "name":  "Chinese Rice",
+                                             "price":  70,
+                                             "image":  "https://images.unsplash.com/photo-1603133872878-684f208fb84b",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Honey Chilly Potato",
+                                             "price":  80,
+                                             "image":  "https://images.unsplash.com/photo-1601050690597-df056fb27095",
+                                             "mask":  "leaf-mask"
+                                         },
+                                         {
+                                             "name":  "Chilly Potato",
+                                             "price":  60,
+                                             "image":  "https://images.unsplash.com/photo-1601050690597-df056fb27095",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Pizza - Paneer Tikka",
+                                             "price":  120,
+                                             "image":  "https://images.unsplash.com/photo-1513104890138-7c749659a591",
+                                             "mask":  "leaf-mask alt"
+                                         },
+                                         {
+                                             "name":  "Pizza - Veg Corn",
+                                             "price":  100,
+                                             "image":  "https://images.unsplash.com/photo-1513104890138-7c749659a591",
+                                             "mask":  "circle-mask"
+                                         }
+                                     ]
+                       },
+                       {
+                           "id":  "beverages",
+                           "name":  "Beverages",
+                           "items":  [
+                                         {
+                                             "name":  "Herbal Tea",
+                                             "price":  10,
+                                             "image":  "https://images.unsplash.com/photo-1594631252845-29fc45865157",
+                                             "mask":  "leaf-mask"
+                                         },
+                                         {
+                                             "name":  "Lassi",
+                                             "price":  30,
+                                             "image":  "https://images.unsplash.com/photo-1549128247-37e905ea6d00",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Mango Lassi",
+                                             "price":  40,
+                                             "image":  "https://images.unsplash.com/photo-1549128247-37e905ea6d00",
+                                             "mask":  "leaf-mask alt"
+                                         },
+                                         {
+                                             "name":  "Oreo Milk Shake",
+                                             "price":  50,
+                                             "image":  "https://images.unsplash.com/photo-1572490122747-3968b75cc699",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Strawberry Shake",
+                                             "price":  50,
+                                             "image":  "https://images.unsplash.com/photo-1549128247-37e905ea6d00",
+                                             "mask":  "leaf-mask"
+                                         },
+                                         {
+                                             "name":  "Banana Shake",
+                                             "price":  50,
+                                             "image":  "https://images.unsplash.com/photo-1550507992-eb63ffee0847",
+                                             "mask":  "circle-mask"
+                                         }
+                                     ]
+                       },
+                       {
+                           "id":  "snacks",
+                           "name":  "Snacks",
+                           "items":  [
+                                         {
+                                             "name":  "Samosa/ Kachori",
+                                             "price":  15,
+                                             "image":  "https://images.unsplash.com/photo-1601050690597-df056fb27095",
+                                             "mask":  "leaf-mask alt"
+                                         },
+                                         {
+                                             "name":  "Aloo Patties",
+                                             "price":  30,
+                                             "image":  "https://images.unsplash.com/photo-1601050690597-df056fb27095",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Paneer Patties",
+                                             "price":  40,
+                                             "image":  "https://images.unsplash.com/photo-1601050690597-df056fb27095",
+                                             "mask":  "leaf-mask"
+                                         },
+                                         {
+                                             "name":  "Paneer Roll",
+                                             "price":  50,
+                                             "image":  "https://images.unsplash.com/photo-1601050690597-df056fb27095",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Veg Roll",
+                                             "price":  30,
+                                             "image":  "https://images.unsplash.com/photo-1601050690597-df056fb27095",
+                                             "mask":  "leaf-mask alt"
+                                         },
+                                         {
+                                             "name":  "Veg Sandwich",
+                                             "price":  50,
+                                             "image":  "https://images.unsplash.com/photo-1528735602780-2552fd46c7af",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Cheese Sandwich",
+                                             "price":  70,
+                                             "image":  "https://images.unsplash.com/photo-1528735602780-2552fd46c7af",
+                                             "mask":  "leaf-mask"
+                                         },
+                                         {
+                                             "name":  "French Fries",
+                                             "price":  50,
+                                             "image":  "https://images.unsplash.com/photo-1585109649139-366815a0d313",
+                                             "mask":  "circle-mask"
+                                         },
+                                         {
+                                             "name":  "Peri Peri Fries",
+                                             "price":  60,
+                                             "image":  "https://images.unsplash.com/photo-1585109649139-366815a0d313",
+                                             "mask":  "leaf-mask alt"
+                                         }
+                                     ]
+                       }
+                   ]
+}
